@@ -72,7 +72,7 @@ a {
 
 .profile-background {
   height: 320px;
-  background-image: url('https://www.wallpapertip.com/wmimgs/89-894233_user-posted-image-initial-d-phone-wallpaper-hd.jpg');
+  background-image: url('../assets/img/profile-bg.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -87,7 +87,7 @@ a {
 
 .avatar {
   background: #fff;
-  background-image: url('https://pbs.twimg.com/profile_images/1142904806593290240/D9tQz5aB_400x400.jpg');
+  background-image: url('../assets/img/circle-avatar.jpg');
   border: 5px solid #fff;
   background-size: cover;
   background-position: center;
